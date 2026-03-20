@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"D:\\Url_save\\GameProg3(Besana,Paray,Tamdang,Tarquini)\\M2GameProg3\\Intermediate\\Source\\M2GameProg3.Build.cs",
+		"D:\\Url_save\\GameProg3(Besana,Paray,Tamdang,Tarquini)\\M2GameProg3\\Intermediate\\Source\\M2GameProg3.Target.cs",
+		"D:\\Url_save\\GameProg3(Besana,Paray,Tamdang,Tarquini)\\M2GameProg3\\Intermediate\\Source\\M2GameProg3Client.Target.cs",
+		"D:\\Url_save\\GameProg3(Besana,Paray,Tamdang,Tarquini)\\M2GameProg3\\Intermediate\\Source\\M2GameProg3Editor.Target.cs",
+		"D:\\Url_save\\GameProg3(Besana,Paray,Tamdang,Tarquini)\\M2GameProg3\\Intermediate\\Source\\M2GameProg3Server.Target.cs"
+	],
+	"EngineVersion": "5.7.1"
+}
