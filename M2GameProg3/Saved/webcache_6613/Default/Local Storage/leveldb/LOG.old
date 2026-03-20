@@ -1,3 +1,20 @@
-2026/03/10-15:21:54.872 5e90 Reusing MANIFEST D:\Url_save\M2GameProg3\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/03/10-15:21:54.923 5e90 Recovering log #3
-2026/03/10-15:21:54.924 5e90 Reusing old log D:\Url_save\M2GameProg3\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/03/20-14:37:55.007 3040 Reusing MANIFEST D:\Url_save\GameProg3(Besana,Paray,Tamdang,Tarquini)\M2GameProg3\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/03/20-14:37:55.016 3040 Recovering log #12
+2026/03/20-14:37:55.016 3040 Level-0 table #15: started
+2026/03/20-14:37:55.029 3040 Level-0 table #15: 72150 bytes OK
+2026/03/20-14:37:55.053 3040 Delete type=0 #12
+2026/03/20-14:37:55.056 3d14 Compacting 4@0 + 1@1 files
+2026/03/20-14:37:55.081 3d14 Generated table #17@0: 2 keys, 24881 bytes
+2026/03/20-14:37:55.082 3d14 Compacted 4@0 + 1@1 files => 24881 bytes
+2026/03/20-14:37:55.085 3d14 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/20-14:37:55.087 3d14 Delete type=2 #7
+2026/03/20-14:37:55.087 3d14 Delete type=2 #9
+2026/03/20-14:37:55.087 3d14 Delete type=2 #11
+2026/03/20-14:37:55.087 3d14 Delete type=2 #13
+2026/03/20-14:37:55.087 3d14 Delete type=2 #15
+2026/03/20-14:41:05.921 3d14 Level-0 table #19: started
+2026/03/20-14:41:05.940 3d14 Level-0 table #19: 76455 bytes OK
+2026/03/20-14:41:05.944 3d14 Delete type=0 #16
+2026/03/20-14:44:05.923 3d14 Level-0 table #21: started
+2026/03/20-14:44:05.930 3d14 Level-0 table #21: 78388 bytes OK
+2026/03/20-14:44:05.934 3d14 Delete type=0 #18

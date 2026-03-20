@@ -1,3 +1,21 @@
-2026/03/20-11:39:10.689 61b8 Reusing MANIFEST D:\Url_save\GameProg3(Besana,Paray,Tamdang,Tarquini)\M2GameProg3\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/03/20-11:39:10.704 61b8 Recovering log #3
-2026/03/20-11:39:10.706 61b8 Reusing old log D:\Url_save\GameProg3(Besana,Paray,Tamdang,Tarquini)\M2GameProg3\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/03/20-14:45:18.110 4cdc Reusing MANIFEST D:\Url_save\GameProg3(Besana,Paray,Tamdang,Tarquini)\M2GameProg3\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/03/20-14:45:18.121 4cdc Recovering log #20
+2026/03/20-14:45:18.124 4cdc Reusing old log D:\Url_save\GameProg3(Besana,Paray,Tamdang,Tarquini)\M2GameProg3\Saved\webcache_6613\Default\Local Storage\leveldb/000020.log 
+2026/03/20-14:46:26.107 5708 Level-0 table #24: started
+2026/03/20-14:46:26.128 5708 Level-0 table #24: 76775 bytes OK
+2026/03/20-14:46:26.137 5708 Delete type=0 #20
+2026/03/20-14:48:26.112 5708 Level-0 table #26: started
+2026/03/20-14:48:26.131 5708 Level-0 table #26: 75055 bytes OK
+2026/03/20-14:48:26.137 5708 Delete type=0 #23
+2026/03/20-14:48:26.138 5708 Compacting 4@0 + 1@1 files
+2026/03/20-14:48:26.181 5708 Generated table #27@0: 9 keys, 26537 bytes
+2026/03/20-14:48:26.181 5708 Compacted 4@0 + 1@1 files => 26537 bytes
+2026/03/20-14:48:26.194 5708 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/20-14:48:26.204 5708 Delete type=2 #17
+2026/03/20-14:48:26.205 5708 Delete type=2 #19
+2026/03/20-14:48:26.205 5708 Delete type=2 #21
+2026/03/20-14:48:26.205 5708 Delete type=2 #24
+2026/03/20-14:48:26.205 5708 Delete type=2 #26
+2026/03/20-14:52:26.115 4cdc Level-0 table #29: started
+2026/03/20-14:52:26.150 4cdc Level-0 table #29: 81558 bytes OK
+2026/03/20-14:52:26.181 4cdc Delete type=0 #25
